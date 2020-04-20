@@ -1,0 +1,6 @@
+# student:
+#  sid: 24
+#spring:
+#  resources:
+#    static-locations:
+#    - classpath:/mystatic
