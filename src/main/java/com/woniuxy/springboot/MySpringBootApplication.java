@@ -10,6 +10,7 @@ public class MySpringBootApplication {
 
 	public static void main(String[] args) {
 		System.out.println("bbb");
+		System.out.println("aaa");
 		SpringApplication.run(MySpringBootApplication.class, args);
 	}
 
